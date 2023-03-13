@@ -22,7 +22,7 @@ If you add anything in heroku branch you need to run workflow to load changes .
 * [Zmirror](https://github.com/kctelegram5/ZMirror-Heromku)
 * [WeebZone](https://github.com/kctelegram5/Weebzone-heromku)
 
-  >**NB** : Add [Cron-job](https://cron-job.org/en/) for Sleep 
+  >**NB** : Add [Cron-job](https://cron-job.org/en/) for 5min to avoid Sleep 
 
 
 
