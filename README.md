@@ -1,4 +1,5 @@
 # How to deploy?
+
 `Workflow Method.`
 
 Fork or import heroku branch only.
@@ -15,3 +16,10 @@ If you want to add service account json then create a folder name accounts and u
 
 This docker is unable to extract accounts.zip . So create a folder name accounts and upload all service accounts json in accounts folder.
 If you add anything in heroku branch you need to run workflow to load changes .
+
+## Modded Versions
+
+* [Zmirror](https://github.com/kctelegram5/ZMirror-Heromku)
+* [WeebZone](https://github.com/kctelegram5/Weebzone-heromku)
+
+Will Try to add Other Repo's Also.
