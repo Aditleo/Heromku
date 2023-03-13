@@ -1,16 +1,15 @@
-# How to deploy?
+## Note
 
-`Workflow Method.`
+Fork or import heroku branch only . If you already fork both branch then delete master branch . I wish it will help to protect ban from server .
 
-- Fork or Import This Repo (Private Only)
+# Instruction #
 
-### Add These in Secrets
+Edit Config From Here . Rename sample_config.env to config.env and fill required vars.
+Upload token.pickle in root folder.
+If you want to add service account json then create a folder name accounts and upload your account json file .
 
-- `HEROKU_EMAIL`
-- `HEROKU_API_KEY`
-- `HEROKU_APP_NAME`
+This docker is unable to extract accounts.zip . So create a folder name accounts and upload all service accounts json in accounts folder.
+If you add anything in heroku branch you need to run workflow to load changes .
 
-Upload Config.env (Either Zmirror or Weebzone) in This Repo.
 
-  >**NOTE:** If you are using Mirror & Clone Functions, Upload all relevent files in here.
 
