@@ -2,7 +2,7 @@
 
 `Workflow Method.`
 
-- Fork or Import This Repo
+- Fork or Import This Repo (Private Only)
 
 ### Add These in Secrets
 
