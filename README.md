@@ -4,9 +4,9 @@
 
 Fork or import heroku branch only.
 
-Upload Config.env (Either Zmirror or Weebzone) in This Repo.
-Upload token.pickle in root folder.
-If you want to add service account json then create a folder name accounts and upload your account json file .
+- Upload Config.env (Either Zmirror or Weebzone) in This Repo.
+- Upload token.pickle in root folder. 
+- If you want to add service account json then create a folder name accounts and upload your account json file .
 
 ### Add These in Secrets
 
