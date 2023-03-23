@@ -1,1 +1,40 @@
+pip3 install aiohttp
+pip3 install aiofiles
+pip3 install aioshutil
+pip3 install anytree
+pip3 install apscheduler
+pip3 install aria2p
+pip3 install asyncio
+pip3 install beautifulsoup4
+pip3 install bencoding
+pip3 install cloudscraper
+pip3 install dnspython
+pip3 install feedparser
+pip3 install flask
+pip3 install google-api-python-client
+pip3 install google-auth-httplib2
+pip3 install google-auth-oauthlib
+pip3 install gunicorn
+pip3 install git+https://github.com/zevtyardt/lk21.git
+pip3 install httpx
+pip3 install lxml
+pip3 install motor
+pip3 install natsort
+pip3 install pillow
+pip3 install psutil
+pip3 install pybase64
+pip3 install pymongo
+pip3 install pyrogram==2.0.73
+pip3 install python-dotenv
+pip3 install python-magic
+pip3 install qbittorrent-api
+pip3 install requests
+pip3 install telegraph
+pip3 install tenacity
+pip3 install tgcrypto
+pip3 install uvloop
+pip3 install xattr
+pip3 install yt-dlp
+
+
 python3 update.py && python3 -m bot
